@@ -2,17 +2,17 @@ const { Comment } = require('../models');
 
 const commentdata = [
   {
-    comment_text: 'Nunc rhoncus dui vel sem.',
+    comment_text: 'What is JavaScript?',
     user_id: 1,
     post_id: 1
   },
   {
-    comment_text: 'Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.',
+    comment_text: 'What is the use of isNaN function?',
     user_id: 2,
     post_id: 2
   },
   {
-    comment_text: 'Aliquam erat volutpat. In congue.',
+    comment_text: 'What is the difference between ViewState and SessionState?',
     user_id: 3,
     post_id: 3
   },
